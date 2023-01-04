@@ -13,7 +13,7 @@ import javax.validation.constraints.Size;
  * @author Lyle Christine
  */
 @Entity
-@Table(name = "authroity")
+@Table(name = "authority")
 public class Authority extends BaseModel {
 
     public static final long serialVersionUID = 1L;
